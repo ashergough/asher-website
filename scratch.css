@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #2a8a29;
+    color: #f1f1f1;
+    line-height: 1.5;
+  }
+  
+  .header {
+    background-color: #333;
+    text-align: center;
+  }
+  
+  .nav {
+    background: #444;
+    text-align: center;
+  }
+  
+  .nav a {
+    color: #ffcc00;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  .intro, .section {
+    margin: 30px;
+    background-color: #2a2a2a;
+
+  }
+  
+  img {
+    border: 2px solid #fff;
+  }
+  
+  .footer {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 0.9em;
+  }
